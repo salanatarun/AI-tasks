@@ -1,0 +1,1379 @@
+
+Final Solution using Method 1 (All at Once):
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+
+
+
+Step 1: Placing queen 1 using Method 2 (One by One)
+Q . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 2: Placing queen 2 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . . . Q
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . .
+
+
+
+Step 2: Placing queen 2 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . Q . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+. . Q . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . Q . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+. . . . Q . . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 2: Placing queen 2 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . Q . . . . .
+. . . . . . Q .
+. . . Q . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. Q . . . . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . Q . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 3: Placing queen 3 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . Q . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. Q . . . . . .
+. . . . . . Q .
+. . Q . . . . .
+. . . . . Q . .
+. . . . . . . .
+
+
+
+Step 4: Placing queen 4 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 5: Placing queen 5 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 6: Placing queen 6 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. . . . . . . .
+. . . . . . . .
+
+
+
+Step 7: Placing queen 7 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . . . . . .
+
+
+
+Step 8: Placing queen 8 using Method 2 (One by One)
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+
+
+
+Final Solution using Method 2 (One by One):
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
+
